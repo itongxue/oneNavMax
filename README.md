@@ -3,14 +3,13 @@
 
 ## 注意
 
-**该项目为主题模板文件，不支持直接使用，请前往[LyLme_Spage](https://gitee.com/LyLme/lylme_spage)下载安装完整项目源码搭建**
+该项目为主题模板文件，不支持直接使用，请前往[LyLme_Spage](https://gitee.com/LyLme/lylme_spage)下载安装项目源码搭建。然后再将本主题文件（oneNavMax）上传到60导航的template目录，最后在60导航后台启用本主题即可。
 
 ## 截图
 
 **oneNavMax主题PC端截图**
 
 ![60导航页oneNavMax主题PC端截图](https://cdn.lylme.com/img/lylme_spage/image-20220501192454699.png)
-
 
 ## 天气插件
 

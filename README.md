@@ -8,16 +8,12 @@
 ## 截图
 
 **oneNavMax主题PC端截图**
-
 ![60导航页oneNavMax主题PC端截图](https://cdn.lylme.com/img/lylme_spage/image-20220501192454699.png)
 
-![60导航页oneNavMax主题PC端截图2](https://cdn.lylme.com/img/lylme_spage/image-20220501225604644.png)
 
 **oneNavMax主题手机端截图**
-
 ![60导航页oneNavMax主题手机端截图](https://cdn.lylme.com/img/lylme_spage/image-20220501192631560.png)
 
-![60导航页oneNavMax主题手机端截图2](https://cdn.lylme.com/img/lylme_spage/image-20220501225251579.png)
 
 ## 天气插件
 

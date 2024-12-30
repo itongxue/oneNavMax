@@ -3,23 +3,21 @@
 
 ## 注意
 
-该项目为主题模板文件，不支持直接使用，请前往[LyLme_Spage](https://gitee.com/LyLme/lylme_spage)下载安装项目源码搭建。然后再将本主题文件（oneNavMax）上传到60导航的template目录，最后在60导航后台启用本主题即可。
+该项目是一个导航主题，不能直接使用，需先到[LyLme_Spage](https://gitee.com/LyLme/lylme_spage)下载安装60导航框架。然后再将本主题文件（oneNavMax）上传到60导航的template目录【例如：nav.ifree6.cn/template】，最后在60导航后台启用本主题即可。
 
 ## 截图
 
-**oneNavMax主题PC端截图**
+**PC端截图【前端】**
 
-![60导航页oneNavMax主题PC端截图](https://cdn.lylme.com/img/lylme_spage/image-20220501192454699.png)
+![navmax202412-1](https://github.com/user-attachments/assets/205f186b-36f7-405f-a3b8-ad004cc55194)
 
-## 天气插件
+**PC端截图【后台】**
 
-天气插件采用的是【和风天气】的标准版天气插件，可无限制免费试用，需要先注册和风天气账号，
-[和风天气账号注册](https://id.qweather.com/#/register)；
-[和风天气创建插件页面](https://widget.qweather.com/create-standard)
-插件 选择【横版】、【款：240px】、【高:180px】;否则会出现样式偏移的问题。其他条件任选。
-生成代码后  除第一行`<div id="he-plugin-standard"></div>`外，其他代码复制到主题文件夹下`index.php`底部对应位置即可。
+![onenavmax202412-1](https://github.com/user-attachments/assets/432517e0-3913-4eeb-9a29-5e31a6a85147)
 
-## 相关链接
 
-* [60导航页](https://gitee.com/LyLme/lylme_spage)
-* [oneNavMax作者](https://github.com/itongxue/oneNavMax)（本人）
+## 友情链接
+
+我的个人博客：[艾自由网](https://www.ifree6.cn) 
+
+我的导航网站：[小艾导航](https://nav.ifree6.cn)

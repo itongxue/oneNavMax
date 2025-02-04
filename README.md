@@ -1,4 +1,4 @@
-# 60导航页oneNavMax主题
+# oneNavMax导航主题（导航网站源码）
 `oneNavMax`主题，基于60导航开发。
 
 ## 注意
